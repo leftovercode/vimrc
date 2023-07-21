@@ -140,6 +140,10 @@ let g:vimtex_view_general_viewer = 'okular'
 
 " This will enable code folding.
 " Use the marker method of folding.
+" Open single block: zo
+" Close single block: zc
+" Open all blocks: zR
+" Close all blocks: zM
 augroup filetype_vim
     autocmd!
     autocmd FileType vim setlocal foldmethod=marker
