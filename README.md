@@ -18,7 +18,9 @@ Run `vim` in a terminal. An error might pop up. Simply press ENTER to go to the 
 
 Next, within vim, type `:PlugInstall` and press ENTER.
 
-Once everything is installed, exit vim by entering `:q` twice, and the next time you enter vim it should be fully setup.
+Once everything is installed, exit vim by entering `:q` twice. 
+
+Next time you enter vim it should be fully setup.
 
 # NOTE
 Filenames differ between Linux and Windows:
